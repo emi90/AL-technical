@@ -1,6 +1,6 @@
 # Alaska Airlines Data Science Interview
 ## Practical Assessment
-Emily Yamauchi
+Emily Yamauchi  
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 [LINK to Google Slide Deck](https://docs.google.com/presentation/d/18pG2f4qhC4xT-a2VQVc7HP_wRRp_9W1waalIwlBTHxY/edit?pli=1#slide=id.p)
