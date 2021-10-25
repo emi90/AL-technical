@@ -66,6 +66,7 @@ While there are weather data APIs, I was not able to locate one which gave granu
     │   ├── ReleasableAircraft.2020.zip
     │   ├── airport_codes_csv.csv
     │   └── Predict Delays Mar 2020 to Feb 2021.csv
+    ├── AlaskaAirlines-Assessment-EmilyYamauchi.pdf
     └── Alaska-Airlines-Assessment.ipynb
 ```
 <p align="right">(<a href="#top">back to top</a>)</p>
