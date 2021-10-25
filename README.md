@@ -56,7 +56,7 @@ While there are weather data APIs, I was not able to locate one which gave granu
 ### Folder Structure
 
 ```
- AL-Technical
+ AS-Technical
     ├── LICENSE
     ├── README.md
     ├── data_clean
