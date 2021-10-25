@@ -49,8 +49,8 @@ A flight is classified as being delayed if it arrives 14 minutes or more past it
 
 ### Known Issues
 
-The airport codes for the origin and destination airports are included in the model, but the codes themselves do not provide much information and have high cardinality. 
-What would be potentially more useful would be to find the coordinates for these airports and together with the departure/arrival datetime, find the weather for that given location to use as a variable in the model. 
+The airport codes for the origin and destination airports are included in the model, but the codes themselves do not provide much information and have high cardinality.   
+What would be potentially more useful would be to find the coordinates for these airports and together with the departure/arrival datetime, find the weather for that given location to use as a variable in the model.   
 While there are weather data APIs, I was not able to locate one which gave granular hourly historical data without a paid subscription.
 
 ### Folder Structure
